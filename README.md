@@ -8,4 +8,4 @@
     - [結合律 - 圏Haskの任意の射`f`, `g`と関数合成演算子`.`](./hask-association-law.md)
     - [恒等律 - 圏Haskの任意の射`f`, `g`と関数合成演算子`.`](./hask-identity-law.md)
 - 「様々な対象と射」の章
-    - [直積の仲介射が一意であること](./c-mediating-arrow-uniqueness.md)
+    - [f &&& gが三角形を可換にすること](./spliting-is-mediating.md)
