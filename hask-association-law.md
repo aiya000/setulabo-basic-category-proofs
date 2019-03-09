@@ -23,4 +23,9 @@ f . g = \x -> f (g x)
   = \y -> (0 <=) (fromIntegral (ord y))
     余分な括弧を除去
   = \y -> 0 <= fromIntegral (ord y)
+
+なので
+
+((0 <=) . fromIntegral) . ord
+  = (0 <=) . (fromIntegral . ord)
 ```
