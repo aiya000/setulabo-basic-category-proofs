@@ -9,3 +9,5 @@
     - [恒等律 - 圏Haskの任意の射`f`, `g`と関数合成演算子`.`](./hask-identity-law.md)
 - 「様々な対象と射」の章
     - [f &&& gが三角形を可換にすること](./spliting-is-mediating.md)
+- 「関手」の章
+    - [関手`F : Sets -> Tord`が関手の定義を満たすこと](./f-is-a-functor.md)
