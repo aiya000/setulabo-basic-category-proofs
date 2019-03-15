@@ -10,4 +10,4 @@
 - 「様々な対象と射」の章
     - [f &&& gが三角形を可換にすること](./spliting-is-mediating.md)
 - 「関手」の章
-    - [関手`F : Sets -> Tord`が関手の定義を満たすこと](./f-is-a-functor.md)
+    - [関手`L : Sets -> Tord`が関手の定義を満たすこと](./l-is-a-functor.md)
